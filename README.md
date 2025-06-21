@@ -1,0 +1,1 @@
+# Lab-Dominando-o-armazenamento-no-azure
